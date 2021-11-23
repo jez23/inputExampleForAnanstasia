@@ -1,0 +1,12 @@
+#currentPrice{
+    text-transform: uppercase;
+    margin-right: 10px;
+}
+#priceDisplay{
+    margin-bottom: 10px;
+}
+#priceDisplay button{
+    border: 1px solid black;
+    background-color: white;
+    cursor: pointer;
+}
